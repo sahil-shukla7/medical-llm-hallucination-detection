@@ -1,0 +1,20 @@
+# Hugging Face Transformers for LLMs
+transformers==4.36.2
+sentencepiece==0.1.99
+accelerate==0.25.0
+
+# Datasets library for loading PubMedQA
+datasets==2.15.0
+
+# Wikipedia library for retrieval
+wikipedia==1.4.0
+
+# DuckDuckGo search API
+duckduckgo-search==8.1.1
+
+# Optional: Pretty print in Python
+pprintpp==0.4.0
+
+# Jupyter / Notebook support (if running locally)
+notebook==7.3.3
+ipython==8.16.1
